@@ -1,6 +1,7 @@
 # clase2
 
 Clase del 20 del Febrero de 2023
+ESTA CLASE NO ES DEL 27
 
 ## Getting Started
 
